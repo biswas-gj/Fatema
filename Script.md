@@ -2,7 +2,7 @@
 
 **[Intro]**
 
-"Good [morning/afternoon], everyone! I’m Jannatul Fatema, and today I’ll be presenting the solution to a problem involving function mappings in the real coordinate plane. This problem will help us explore concepts like one-to-one functions, onto functions, and inverses. Let’s go through each part step-by-step."
+"Good [morning/afternoon], everyone! I’m Jannatul Fatema, and today I’ll be presenting the solution to a problem involving function mappings in the real coordinate plane. This problem will help us explore concepts like **one-to-one** functions, **onto** functions, and **inverses**. Let’s go through each part step-by-step."
 
 ---
 
@@ -44,7 +44,7 @@ So, \( F(0, 0) = (-1, 1) \) and \( F(1, 4) = (11, 0) \). This part demonstrates 
 
 ---
 
-**[Part (b): Is \( F \) One-to-One?]**
+**[Part (b): Is \( F \) One-to-One ?]**
 
 "Now, let’s determine if \( F \) is one-to-one. A function is one-to-one if \( F(x_1, y_1) = F(x_2, y_2) \) implies \( (x_1, y_1) = (x_2, y_2) \).
 
@@ -75,7 +75,7 @@ Since both \( x \) and \( y \) must be equal, \( F \) is one-to-one."
 
 ---
 
-**[Part (c): Is \( F \) Onto?]**
+**[Part (c): Is \( F \) Onto ?]**
 
 "Next, we check if \( F \) is onto. To be onto, every point in \( \mathbb{R} \times \mathbb{R} \) must have a pre-image.
 
@@ -102,7 +102,7 @@ This shows that for any \( (a, b) \), we can find an \( (x, y) \) to match it, p
 
 ---
 
-**[Part (d): Is \( F \) a One-to-One Correspondence?]**
+**[Part (d): Is \( F \) a One-to-One Correspondence ?]**
 
 "Since \( F \) is both one-to-one and onto, it’s a one-to-one correspondence, or bijective. To complete the problem, let’s find the inverse \( F^{-1} \).
 
