@@ -31,13 +31,13 @@ Let’s start with part (a)."
 For \( F(0, 0) \):
 - We plug in \( x = 0 \) and \( y = 0 \):
   \[
-  F(0, 0) = (3 \cdot 0 - 1, 1 - 0) = (-1, 1)
+  F(0, 0) = (3 * 0 - 1, 1 - 0) = (-1, 1)
   \]
 
 For \( F(1, 4) \):
 - Substituting \( x = 1 \) and \( y = 4 \):
   \[
-  F(1, 4) = (3 \cdot 4 - 1, 1 - 1) = (11, 0)
+  F(1, 4) = (3 * 4 - 1, 1 - 1) = (11, 0)
   \]
 
 So, \( F(0, 0) = (-1, 1) \) and \( F(1, 4) = (11, 0) \). This part demonstrates how to apply the function to specific values."
